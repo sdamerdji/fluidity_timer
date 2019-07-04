@@ -10,15 +10,25 @@ Note: This timer is a Java application, so it will run on any computer. You will
 
 ### Features
 Automatically saves prep time
+
 Automatically scrolls through speeches
+
 Gives visual cues at regular intervals
+
 Always stays on top of other windows so you never lose track of time during a speech
+
 Small and sleek, so you can save screen space for speech docs
+
 Access advanced features by clicking time display
+
 Includes calculator brackets for preliminary rounds
+
 Customizable visual cues
+
 Customizable color scheme
+
 Customizable location during speeches
+
 Automatically sets time for LD speeches
 
 

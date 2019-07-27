@@ -1,8 +1,8 @@
 
 
-The Fluidity Timer is a smart timer for Lincoln-Douglas debate. Because Fluidity already knows LD speech times and the order of the speeches, Fluidity automates tedious tasks. The upshot: you can use 80% fewer clicks in a standard debate round. 
+The Fluidity Timer is a smart timer for Lincoln-Douglas debate. Because Fluidity already knows LD speech times and their order, Fluidity automates tedious tasks. The upshot: you can use 80% fewer clicks in a standard debate round. 
 
-Fluidity will improve your debating. With Fluidity's smart visual cues, you'll never finish a speech in the middle of a sentence again. Plus, you'll have extra mental bandwidth since Fluidity frees you from tasks like remembering how much preparation time you have left.
+Fluidity will improve your debating. With Fluidity's smart visual cues, you'll never finish a speech in the middle of a sentence again. Plus, you'll have extra mental bandwidth since Fluidity frees you from tasks like remembering how much preparation time you'll have before your next speech.
 
 The timer is highly customizable. You can change its visual cues, color scheme, and default location during speeches. 
 
